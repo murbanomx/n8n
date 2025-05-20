@@ -17,7 +17,7 @@ How to install n8n server in GCP
   sudo apt update
   sudo apt install nano
 
-5. Create and save the Nginx configuration file ./nginx/cond.f/n8n.conf  n8n-murbano.ddns.net
+5. Create and save the Nginx configuration file in ./nginx/cond.f/n8n.conf  
 
 server {
     listen 80;
